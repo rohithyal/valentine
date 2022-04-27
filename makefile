@@ -1,2 +1,2 @@
 run:
-	python src/val.py "Sabrina"
+	python val.py "Sabrina"
