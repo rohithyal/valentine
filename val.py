@@ -58,7 +58,7 @@ class Valentine:
         C = Color()
 
         return '{}{}{}\n'\
-            'I love you very much'.format(
+            'I havent been nice to you, I am sorry. I want you to know, I cant be without you'.format(
                 C.RED, self.romanticize(), C.NORMAL,
                 C.BOLD_YELLOW, self.loved_one, C.NORMAL
             )
